@@ -4,7 +4,9 @@ library(tidyverse)
 library(GGally) 
 
 """
-Test ggally functionality with coloring and correlation by group.
+Script uses ggally from R to make quick all vs all plots with correlation and significance testing, this wone with coloring and correlation values by user-defined group, now called "Group."
+
+In the future, should give this an argparser to take input from command line, and should add an output file in addition to keeping the stdout output. 
 """
 
 # Read and reshape data
