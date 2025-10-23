@@ -1,0 +1,3 @@
+README: THis readme file is an effort to list which scripts use which input files to test with
+
+fasta_kmer_counter.py:	2015GR_all_scaffolds.1000.gc.fna.metabat-bins.specific.26.fna
